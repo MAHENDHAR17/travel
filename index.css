@@ -1,0 +1,19 @@
+
+.firstcontant{
+    height: 98vh;
+    width: 95vw;
+    margin: auto;
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-travel-around-the-world-travel-poster-template-picture-image_1017255.jpg);
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+.loginspace{
+    height: 40vh;
+    width: 20vw;
+    background-color: rgb(102, 202, 197);
+    margin: auto;
+    position: relative;
+    top: 30%;
+    color: aliceblue;
+}
