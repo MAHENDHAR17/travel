@@ -1,4 +1,14 @@
 
+.navigation{background-color: black;
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
 .firstcontant{
     height: 98vh;
     width: 95vw;
