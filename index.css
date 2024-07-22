@@ -1,17 +1,28 @@
 
 .navigation{background-color: black;
+    height: 10vh;
+    width: 98vw;
     color: aquamarine;
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
+
+}
+.img{
+    height: auto;
+    width: 20vw;
 
 }
 .menu{
+    width: 60vw;
     display: flex;
     justify-content: space-around;
 }
+.menu h1{
+    cursor: pointer;
+}
 .firstcontant{
     height: 98vh;
-    width: 95vw;
+    width: 98vw;
     margin: auto;
     background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-travel-around-the-world-travel-poster-template-picture-image_1017255.jpg);
     background-size: cover;
@@ -26,4 +37,48 @@
     position: relative;
     top: 30%;
     color: aliceblue;
+}
+.firstplaces{
+    height: 90vh;
+    width: 98vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+/* visit india */
+.placeimg1{ 
+    background-image: url(https://globalgrasshopper.com/wp-content/uploads/2011/01/Mumbai-India-scaled.jpg);
+    background-size: cover;
+}
+/* visit paris */
+.placeimg2{
+
+    background-image: url(https://th.bing.com/th/id/OIP.gOiajMIog2Kbarg3VMx9RwAAAA?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+/* Visit america */
+.placeimg3{
+    background-image: url(https://th.bing.com/th/id/OIP.CyAABgMU_l4rkWKeK763_gHaDt?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+/* visit dubai */
+.placeimg4{
+    background-image: url(https://4.bp.blogspot.com/-63WpFtwDX2U/WHXAFPQ3xsI/AAAAAAAAAjc/LxWew6Uamokzz8-Ov7H0tqtUstR_7WfzgCLcB/s1600/shutterstock_241604596.jpg);
+    background-size: cover;
+}
+/* Visit australia */
+.placeimg5{
+    background-image: url(https://th.bing.com/th/id/OIP.xCb8_qw1TfwdrwVv0V-neQHaEK?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+/* Visit malaysia*/
+.placeimg6{
+    background-image: url(https://th.bing.com/th/id/OIP.uQHlps4sdQSLWWj6l9eGhQHaE8?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+.firstplaces h1{
+    cursor: pointer;
+    position: relative;
+    top: 70%;
+    color:white;
 }
