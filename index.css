@@ -110,7 +110,12 @@ button{
 .booking{
 height: 80vh;
 width: 98vw;
-background-image: url(https://i.pinimg.com/originals/dd/91/4c/dd914c6cca076f8cebb463a81e73e7e5.jpg);
 background-size: cover;
+}
+.booking .flight{
+    height: 20vh;
+    width: 20vw;
+    background-image:url(https://i.pinimg.com/originals/dd/91/4c/dd914c6cca076f8cebb463a81e73e7e5.jpg) ;
+    background-size: cover;
 }
 
