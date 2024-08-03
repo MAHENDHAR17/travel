@@ -114,14 +114,28 @@ background-size: cover;
 display: flex;
 }
 .booking .flight{
-    height: 20vh;
+    height: 50vh;
     width: 20vw;
     background-image:url(https://i.pinimg.com/originals/dd/91/4c/dd914c6cca076f8cebb463a81e73e7e5.jpg) ;
     background-size: cover;
-}.booking .ship{
-    height: 20vh;
+}
+.booking .ship{
+    height: 50vh;
     width: 20vw;
     background-image: url(https://th.bing.com/th/id/R.54469c1f294f1e241f6d14297ce29dc4?rik=hSZwfO4%2bc5m%2f3A&riu=http%3a%2f%2fwww.hdwallpaper.nu%2fwp-content%2fuploads%2f2016%2f12%2fcruise_ship-1.jpg&ehk=x9qfMYA9SkEqU7VRaTmRYLzSeU5glrHYeF%2fEcJkzEFk%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+.booking .restorant{
+    height: 50vh;
+    width: 20vw;
+    background-image: url(https://th.bing.com/th/id/OIP.cXfmA-okvqHhMHzeMKi6TwHaEK?w=250&h=180&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+}
+.booking .hotals{
+
+    height: 50vh;
+    width: 20vw;
+    background-image: url(https://th.bing.com/th/id/R.79c10897c37304d2f14a5284a36b336e?rik=BqQ1WvDPTs%2fz5w&riu=http%3a%2f%2fcdn.designrulz.com%2fwp-content%2fuploads%2f2015%2f09%2fdesignrulz-11.jpg&ehk=Z3mpatFB77LyBBIAofmVGhEvlJWz7XRj4YBDbwc4VKQ%3d&risl=&pid=ImgRaw&r=0);
     background-size: cover;
 }
 
